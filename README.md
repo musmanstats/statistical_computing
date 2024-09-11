@@ -1,4 +1,3 @@
-# statistical_computing
 # Statistical Computing and Data Analysis
 
 Author: Muhammad Usman
