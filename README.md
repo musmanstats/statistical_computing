@@ -1,5 +1,3 @@
-Here is the complete text in a single block, formatted and ready to be copied directly into your GitHub README file:
-
 # Statistical Computing and Data Analysis
 
 **Author**: Muhammad Usman  
