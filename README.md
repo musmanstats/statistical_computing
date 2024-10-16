@@ -8,11 +8,15 @@ This is Git repository containing material about Statistical Computing and Data 
 
 # Week 01
 ### Reading CSV data file
+
 ```{r}
 df <- read.table(file = "data.csv",
                  header = T,
                  sep=",")
+```
+### Basic Characteristics of the `df`
 
+```{r}
 df
 # View the data
 View(df)
