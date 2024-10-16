@@ -6,8 +6,8 @@ Course Code: STAT-711
 
 This is Git repository containing material about Statistical Computing and Data Analysis.
 
-## Week 01
-# Reading CSV data file
+# Week 01
+### Reading CSV data file
 ```{r}
 df <- read.table(file = "data.csv",
                  header = T,
